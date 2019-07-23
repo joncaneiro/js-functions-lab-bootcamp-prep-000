@@ -4,7 +4,10 @@ function happyHolidays () {
 }
 
 
-function HappyHolidaysTo(person) {
+function HappyHolidaysTo(name) {
+  if (string===name) {
+    return 
+  }
   console.log("Happy Holidays, ${person}!")
 }
 
