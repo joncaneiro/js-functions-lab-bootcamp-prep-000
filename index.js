@@ -12,7 +12,9 @@ function happyHolidaysTo(name) {
 
 
 function happyHolidayTo(holiday, person) {
-  console.log("Happy ${holiday}" + " " + " ${person}!")
+  if (holiday==="Independence Day";
+     person===""
+  }
 }
 
 function holidayCountdown(holiday, days) {
