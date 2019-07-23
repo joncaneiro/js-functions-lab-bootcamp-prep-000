@@ -10,7 +10,7 @@ function happyHolidaysTo(name) {
 
 
 function happyHolidayTo(holiday, person) {
-  console.log("Happy ${holiday}, ${person}!")
+  console.log("Happy ${holiday}" + " " + " ${person}!")
 }
 
 function holidayCountdown(holiday, days) {
