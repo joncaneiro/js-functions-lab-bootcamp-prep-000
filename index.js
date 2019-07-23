@@ -5,8 +5,7 @@ function happyHolidays() {
 
 
 function happyHolidaysTo(name) {
-  if (name===name) {
-    return "Happy Holidays, ${name}!"
+  console.log("Happy holidays, ${name}")
 }
 
 
