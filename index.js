@@ -1,8 +1,6 @@
 // write your code below!
-function happyHolidays(string) {
-  if ("Happy holidays!"===string) {
-  return "Happy holidays!"
- }
+function happyHolidays() {
+  console.log("Happy holidays!")
 } 
 
 
