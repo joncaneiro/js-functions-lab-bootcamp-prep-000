@@ -11,9 +11,10 @@ function happyHolidaysTo(name) {
 }
 
 
-function happyHolidayTo(holiday, person) {
+function happyHolidayTo(holiday, name) {
   if (holiday==="Independence Day";
-     person===""
+     name==="you") {
+    return "Happy Independence Day, you!"
   }
 }
 
