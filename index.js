@@ -3,6 +3,7 @@ function happyHolidays () {
   return "Happy Holidays!"
 }
 
+
 function HappyHolidaysTo(person) {
   console.log("Happy Holidays, ${person}!")
 }
@@ -12,6 +13,6 @@ function happyHolidayTo(holiday, person) {
 }
 
 function holidayCountdown(holiday, days) {
-  console.log("It's ${days} days until ${holiday}")
+  console.log("It's ${days} days until ${holiday}!")
 }
 
