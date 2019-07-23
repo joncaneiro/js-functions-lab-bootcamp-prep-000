@@ -6,10 +6,9 @@ function happyHolidays () {
 
 function HappyHolidaysTo(name) {
   if (string===name) {
-    return 
-  }
-  console.log("Happy Holidays, ${person}!")
+    return "Happy Holidays, ${name}!"
 }
+
 
 function happyHolidayTo(holiday, person) {
   console.log("Happy ${holiday}, ${person}!")
